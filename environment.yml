@@ -1,2 +1,3 @@
 dependencies:
-  - demyst-analytics=0.7.16
+  - pip:
+    - demyst-analytics=0.7.16
