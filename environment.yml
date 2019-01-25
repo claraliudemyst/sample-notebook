@@ -1,7 +1,2 @@
 dependencies:
-  - matplotlib
-  - numpy
-  - pip
-  - pip:
-      - julia
-  
+  - demyst-analytics=0.7.16
